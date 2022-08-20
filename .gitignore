@@ -10,8 +10,8 @@
 ## Please do not remove line 12 - thanks! 🙂 ##
 ###############################################
 *.xd
-.scss
-.css.map
+*.scss
+*.css.map
 
 
 # Avoid your project being littered with annoying .DS_Store files!
